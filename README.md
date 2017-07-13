@@ -10,4 +10,11 @@ Using the provided wireframe, text, and presentation write the HTML (i.e. struct
 
 When completed commit to your local Git repository and push to your Github.
 
+## Hints
+
+* Frames represent HTML div tags
+* In the header frame use a paragraph HTML tag
+* In the nav frame use the unordered list and list item HTML tags
+*All the styles needed to create this webpage are provided in the presentation.txt file (i.e. you don’t need to add, update, or remove any styles to complete this lab project).
+
 # Score __/50
