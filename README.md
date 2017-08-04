@@ -1,6 +1,9 @@
-# Lab_01
+# Lab_01 - HTML/CSS Refresher
+Name: _______________________________________
 
-## Your task for this lab
+## DUE: 03 Sep 2017
+
+## Instructions:
 
 Using the provided wireframe, text, and presentation write the HTML (i.e. structure code) that will generate the King Dusko webpage.
 
